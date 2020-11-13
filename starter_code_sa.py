@@ -8,7 +8,7 @@ from test_elasticsearch_server import search
 from strsimpy.cosine import Cosine
 
 
-KEYNAME = "WARC-TREC-ID"
+KEYNAME = "WARC-Record-ID"
 
 
 # The goal of this function process the webpage and returns a list of labels -> entity ID
