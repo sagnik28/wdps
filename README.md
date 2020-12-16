@@ -4,4 +4,4 @@
 3. Remove stop-words.
 4. Apply POS tagging.
 5. Apply NER to get entities contained.
-6. Apply Elastic Search.
+6. Elastic Search.
